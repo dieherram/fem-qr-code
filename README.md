@@ -10,7 +10,7 @@ El reto consiste en armar un componente de código QR que se vea lo más parecid
 
 ### Links
 
-- Solution URL: (https://github.com/dieherram/fem-qr-code)
+- Solution URL: (https://dieherram.github.io/fem-qr-code/)
 
 ## My process
 
